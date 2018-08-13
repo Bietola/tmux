@@ -1,0 +1,17 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio/code	1	bash	:
+pane	3	0	:bash	1	:*	0	:/home/dincio/code/games/QuestionQuest2	1	bash	:
+pane	qq2	0	:vim	1	:*	0	:/home/dincio/code/games/QuestionQuest2/build	1	vim	:vim ../src/main.cpp
+pane	qq2	1	:git	0	:-	0	:/home/dincio/code/games/QuestionQuest2	1	bash	:
+pane	scrabble	0	:vim	1	:*	0	:/home/dincio/code/games/Scrabble/build	1	vim	:vim ../src/main.cpp
+pane	scrabble	1	:git	0	:-	0	:/home/dincio/code/games/Scrabble	1	bash	:
+pane	snippets	1	:git	1	:*	0	:/home/dincio/code/snippets	1	bash	:
+pane	snippets	2	:bash	0	:-	0	:/home/dincio/tmp/SmartCovariance/src	1	bash	:
+window	0	0	1	:*	bd1e,95x26,0,0,1
+window	3	0	1	:*	bd1f,95x26,0,0,2
+window	qq2	0	1	:*	bd20,95x26,0,0,3
+window	qq2	1	0	:-	bd21,95x26,0,0,4
+window	scrabble	0	1	:*	bd22,95x26,0,0,5
+window	scrabble	1	0	:-	bd23,95x26,0,0,6
+window	snippets	1	1	:*	bd24,95x26,0,0,7
+window	snippets	2	0	:-	bd25,95x26,0,0,8
+state	qq2	scrabble

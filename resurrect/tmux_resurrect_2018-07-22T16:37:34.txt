@@ -1,0 +1,27 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio/godot/projects/SpriteTut/scripts	1	bash	:
+pane	godot	0	:vim	1	:*	0	:/home/dincio/godot/projects/FirstGameTut	1	vim	:vim Player.gd
+pane	godot	1	:bash	0	:-	0	:/home/dincio/godot/projects	1	bash	:
+pane	godot	2	:engine	0	:	0	:/home/dincio/godot/projects	1	bash	:
+pane	hackerrank	0	:vim	1	:*	0	:/home/dincio/code/problems/hackerrank/101_55/1/build	1	vim	:vim ../src/main.cpp
+pane	hackerrank	1	:git	0	:	0	:/home/dincio/code/problems/hackerrank/101_55/1/build	1	bash	:
+pane	hackerrank	2	:vim-upgrade	0	:-	0	:/home/dincio	1	bash	:
+pane	install-c#	0	:bash	1	:*	0	:/home/dincio/tmp	1	bash	:
+pane	install-c#	1	:M-GDNative	0	:-	0	:/home/dincio/godot/projects/GDNativeTut/godot_headers	1	bash	:
+pane	install-c#	2	:M-godot	0	:M	0	:/home/dincio/tmp	1	bash	:
+pane	sfmlbox	0	:vim	1	:*	0	:/home/dincio/code/SFMLBox/build	1	vim	:vim ../src/main.cpp
+pane	sfmlbox	1	:git	0	:-	0	:/home/dincio/code/SFMLBox/build	1	vim	:vim ../CMakeLists.txt
+pane	sfmlbox	2	:cmake-debug	0	:	0	:/home/dincio/code	1	bash	:
+window	0	0	1	:*	ae5e,80x23,0,0,1
+window	godot	0	1	:*	afff,141x41,0,0,2
+window	godot	1	0	:-	b000,141x41,0,0,3
+window	godot	2	0	:	582f,141x41,0,0,10
+window	hackerrank	0	1	:*	ae61,80x23,0,0,4
+window	hackerrank	1	0	:	ae62,80x23,0,0,5
+window	hackerrank	2	0	:-	ae63,80x23,0,0,6
+window	install-c#	0	1	:*	5341,70x40,0,0,12
+window	install-c#	1	0	:-	5343,70x40,0,0,14
+window	install-c#	2	0	:M	5344,70x40,0,0,15
+window	sfmlbox	0	1	:*	ae64,80x23,0,0,7
+window	sfmlbox	1	0	:-	ae65,80x23,0,0,8
+window	sfmlbox	2	0	:	ae66,80x23,0,0,9
+state	install-c#	

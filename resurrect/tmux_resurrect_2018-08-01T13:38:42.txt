@@ -1,0 +1,9 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio	1	bash	:
+pane	install-hana	0	:bash	1	:*	0	:/usr/local/include/boost	1	bash	:
+pane	qq2	0	:vim	1	:*	0	:/home/dincio/code/games/QuestionQuest2/build	1	vim	:vim ../src/main.cpp
+pane	qq2	1	:git	0	:-	0	:/home/dincio/code/games/QuestionQuest2	1	bash	:
+window	0	0	1	:*	adbe,112x31,0,0,1
+window	install-hana	0	1	:*	adbf,112x31,0,0,2
+window	qq2	0	1	:*	adc0,112x31,0,0,3
+window	qq2	1	0	:-	adc1,112x31,0,0,4
+state	qq2	

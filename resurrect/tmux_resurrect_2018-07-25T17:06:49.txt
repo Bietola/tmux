@@ -1,0 +1,5 @@
+pane	4	0	:bash	1	:*	0	:/home/dincio/code	1	bash	:
+pane	6	0	:bash	1	:*	0	:/home/dincio/code	1	bash	:
+window	4	0	1	:*	5675,108x30,0,0,16
+window	6	0	1	:*	5673,108x30,0,0,33
+state	6	

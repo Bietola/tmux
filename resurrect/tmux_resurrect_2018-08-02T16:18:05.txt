@@ -1,0 +1,11 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio	1	bash	:
+pane	qq2	0	:vim	1	:*	0	:/home/dincio/code/games/QuestionQuest2/build	1	vim	:vim ../src/main.cpp
+pane	qq2	1	:git	0	:-	0	:/home/dincio/code/games/QuestionQuest2	1	bash	:
+pane	tmp	0	:vim	1	:*	0	:/home/dincio/tmp/build	1	vim	:vim ../src/main.cpp
+pane	tmp	1	:git	0	:-	0	:/home/dincio/tmp	1	bash	:
+window	0	0	1	:*	adbe,112x31,0,0,1
+window	qq2	0	1	:*	adbf,112x31,0,0,2
+window	qq2	1	0	:-	adc0,112x31,0,0,3
+window	tmp	0	1	:*	adc1,112x31,0,0,4
+window	tmp	1	0	:-	adc2,112x31,0,0,5
+state	qq2	tmp

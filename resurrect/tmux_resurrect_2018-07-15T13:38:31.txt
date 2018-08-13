@@ -1,0 +1,11 @@
+pane	euler	0	:vim	1	:*	0	:/home/dincio/code/euler/2/build	1	vim	:vim ../src/main.cpp
+pane	euler	1	:git	0	:-	0	:/home/dincio/code/euler/1/build	1	bash	:
+pane	scrabble	0	:vim	1	:*	0	:/home/dincio/code/cpp/games/sfml/Scrabble/build	1	vim	:vim ../src/main.cpp
+pane	scrabble	1	:git	0	:	0	:/home/dincio/code/cpp/games/sfml/Scrabble	1	bash	:
+pane	scrabble	2	:bash	0	:-	0	:/home/dincio/code/cpp/games/sfml/Scrabble/assets	1	bash	:
+window	euler	0	1	:*	b9fe,122x34,0,0,1
+window	euler	1	0	:-	b9ff,122x34,0,0,2
+window	scrabble	0	1	:*	b9fd,122x34,0,0,0
+window	scrabble	1	0	:	ba00,122x34,0,0,3
+window	scrabble	2	0	:-	ba04,122x34,0,0,7
+state	scrabble	

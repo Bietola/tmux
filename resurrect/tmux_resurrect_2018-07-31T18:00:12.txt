@@ -1,0 +1,13 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio	1	bash	:
+pane	install-hana	0	:bash	1	:*	0	:/usr/local/repositories/boost_1_61_0	1	bash	:
+pane	qq2	0	:vim	1	:*	0	:/home/dincio/code/games/QuestionQuest2/build	1	vim	:vim ../src/main.cpp
+pane	qq2	1	:git	0	:-	0	:/home/dincio/code/games/QuestionQuest2	1	bash	:
+pane	snippets	0	:vim	1	:*	0	:/home/dincio/code/snippets/fluent_cpp/SmartCovariance/build	1	vim	:vim ../src/main.cpp
+pane	snippets	1	:git	0	:-	0	:/home/dincio/code/snippets/fluent_cpp/SmartCovariance	1	bash	:
+window	0	0	1	:*	adbe,112x31,0,0,1
+window	install-hana	0	1	:*	adc4,112x31,0,0,7
+window	qq2	0	1	:*	adc1,112x31,0,0,4
+window	qq2	1	0	:-	adc2,112x31,0,0,5
+window	snippets	0	1	:*	adbf,112x31,0,0,2
+window	snippets	1	0	:-	adc0,112x31,0,0,3
+state	install-hana	

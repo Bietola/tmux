@@ -1,0 +1,13 @@
+pane	hackerrank	0	:vim	1	:*	0	:/home/dincio/code/problems/hackerrank/101_55/1/build	1	vim	:vim ../src/main.cpp
+pane	hackerrank	1	:git	0	:	0	:/home/dincio/code/problems/hackerrank/101_55/1/build	1	bash	:
+pane	hackerrank	2	:vim-upgrade	0	:-	0	:/home/dincio	1	bash	:
+pane	sfmlbox	0	:vim	1	:*	0	:/home/dincio/code/SFMLBox/build	1	vim	:vim ../src/main.cpp
+pane	sfmlbox	1	:git	0	:-	0	:/home/dincio/code/SFMLBox/build	1	vim	:vim ../CMakeLists.txt
+pane	sfmlbox	2	:cmake-debug	0	:	0	:/home/dincio/code	1	bash	:
+window	hackerrank	0	1	:*	b9ff,122x34,0,0,2
+window	hackerrank	1	0	:	ba00,122x34,0,0,3
+window	hackerrank	2	0	:-	ba01,122x34,0,0,4
+window	sfmlbox	0	1	:*	ba05,122x34,0,0,8
+window	sfmlbox	1	0	:-	5d30,122x34,0,0,11
+window	sfmlbox	2	0	:	5d33,122x34,0,0,14
+state	sfmlbox	

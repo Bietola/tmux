@@ -1,0 +1,7 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio	1	bash	:
+pane	snippets	0	:vim	0	:-	0	:/home/dincio/code/snippets/fluent_cpp/SmartCovariance/build	1	vim	:vim ../src/main.cpp
+pane	snippets	1	:git	1	:*	0	:/home/dincio/code/snippets/fluent_cpp/SmartCovariance	1	bash	:
+window	0	0	1	:*	adbe,112x31,0,0,1
+window	snippets	0	0	:-	adbf,112x31,0,0,2
+window	snippets	1	1	:*	adc0,112x31,0,0,3
+state	snippets	0

@@ -1,0 +1,15 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio	1	bash	:
+pane	make-grappalib	0	:vim	1	:*	0	:/home/dincio/code/tests/Grappa	1	vim	:vim CMakeLists.txt
+pane	make-grappalib	1	:git	0	:-	0	:/home/dincio/code/tests/Grappa	1	bash	:
+pane	make-grappalib	2	:sfml	0	:	0	:/home/dincio/code/tests/Grappa/build	1	bash	:
+pane	sfml-test	0	:vim	1	:*	0	:/home/dincio/code/tests/SFMLTest/build	1	vim	:vim ../CMakeLists.txt
+pane	sfml-test	1	:git	0	:-	0	:/home/dincio/code/tests/SFMLTest/build	1	bash	:
+pane	sfml-test	2	:vimrc	0	:	0	:/home/dincio/.vim	1	bash	:
+window	0	0	1	:*	b9fd,122x34,0,0,0
+window	make-grappalib	0	1	:*	b9fe,122x34,0,0,1
+window	make-grappalib	1	0	:-	b9ff,122x34,0,0,2
+window	make-grappalib	2	0	:	ba00,122x34,0,0,3
+window	sfml-test	0	1	:*	ba01,122x34,0,0,4
+window	sfml-test	1	0	:-	ba02,122x34,0,0,5
+window	sfml-test	2	0	:	5d33,122x34,0,0,14
+state	sfml-test	make-grappalib

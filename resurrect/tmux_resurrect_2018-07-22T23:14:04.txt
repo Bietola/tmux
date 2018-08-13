@@ -1,0 +1,21 @@
+pane	0	0	:bash	1	:*	0	:/home/dincio/godot/projects/SpriteTut/scripts	1	bash	:
+pane	godot	0	:vim	1	:*	0	:/home/dincio/godot/projects	1	bash	:
+pane	godot	1	:bash	0	:	0	:/home/dincio/godot/projects	1	bash	:
+pane	godot	2	:engine	0	:-	0	:/home/dincio/godot/bin	1	bash	:
+pane	hackerrank	0	:vim	1	:*	0	:/home/dincio/code/problems/hackerrank/101_55/1/build	1	vim	:vim ../src/main.cpp
+pane	hackerrank	1	:git	0	:	0	:/home/dincio/code/problems/hackerrank/101_55/1/build	1	bash	:
+pane	hackerrank	2	:vim-upgrade	0	:-	0	:/home/dincio	1	bash	:
+pane	sfmlbox	0	:vim	1	:*	0	:/home/dincio/code/SFMLBox/build	1	vim	:vim ../src/main.cpp
+pane	sfmlbox	1	:git	0	:-	0	:/home/dincio/code/SFMLBox/build	1	vim	:vim ../CMakeLists.txt
+pane	sfmlbox	2	:cmake-debug	0	:	0	:/home/dincio/code	1	bash	:
+window	0	0	1	:*	b9fe,122x34,0,0,1
+window	godot	0	1	:*	b9ff,122x34,0,0,2
+window	godot	1	0	:	ba00,122x34,0,0,3
+window	godot	2	0	:-	5d34,122x34,0,0,15
+window	hackerrank	0	1	:*	ba02,122x34,0,0,5
+window	hackerrank	1	0	:	ba03,122x34,0,0,6
+window	hackerrank	2	0	:-	ba04,122x34,0,0,7
+window	sfmlbox	0	1	:*	5d30,122x34,0,0,11
+window	sfmlbox	1	0	:-	5d31,122x34,0,0,12
+window	sfmlbox	2	0	:	5d32,122x34,0,0,13
+state	godot	
